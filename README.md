@@ -7,3 +7,7 @@
    - Axios
    - `styled-components`
    - `react-router-dom`
+
+
+### pt-BR
+   Basicamente você clica no Estado e a aplicação traz as regiões deste Estado.
